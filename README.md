@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @Mohith-Krishna-4533
-- 👀 I’m interested in ... Python, HTML, CSS, JavaScript, Crypto, etc.  
-- 🌱 I’m currently learning ... Python
-- 💞️ I’m looking to collaborate on ... NIL
-- 📫 How to reach me ... NIL
+- 👀 I’m interested in ... Programming, Cryptography, CyberSecurity, Networking, Electronics, Mathematics, Hacking, etc.  
 
 <!---
 Mohith-Krishna-4533/Mohith-Krishna-4533 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
